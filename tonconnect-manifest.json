@@ -1,5 +1,7 @@
 {
-    "url": "https://satshimoto.github.io/memeland",
+    "url": "https://memeverse.site",
     "name": "Memeland",
-    "iconUrl": "https://satshimoto.github.io/api-cdn/LogoTonConnect.png"
+    "iconUrl": "https://memeverse.site/api/v1/cdn/LogoTonConnect.png"
+    "termsOfUseUrl": "https://ton-connect.gith…eact-ui/terms-of-use.txt",
+    "privacyPolicyUrl": "https://ton-connect.gith…ct-ui/privacy-policy.txt",
 }
