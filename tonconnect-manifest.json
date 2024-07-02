@@ -1,7 +1,7 @@
 {
     "url": "https://memeverse.site",
     "name": "Memeland",
-    "iconUrl": "https://memeverse.site/api/v1/cdn/LogoTonConnect.png",
+    "iconUrl": "https://satshimoto.github.io/api-cdn/LogoTonConnect.png",
     "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
     "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
